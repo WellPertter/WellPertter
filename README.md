@@ -1,6 +1,6 @@
 # main
 # 💫 About Me:
-I'm a simple student of the technologies;<br>I like economics, arts, history;<br>I like cats and dogs;<br>My favorite book is The Art of War;<br>My favorite programming language is SQL.<br>
+I'm a simple student of the technologies;<br>I like economics, arts, history;<br>My favorite book is The Art of War;<br>My favorite programming language is SQL.<br>
 
 
 ## 🌐 Socials:
